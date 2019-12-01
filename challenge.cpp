@@ -1,7 +1,9 @@
 
 #include <iostream>
 
+
 using namespace std;
+
 
 class Student
 {
@@ -41,7 +43,7 @@ int main()
     int roll;    
     string name;    
     int m,s,c;
-    cout<<"Enter Roll number of a Student: ";    
+    cout<<"Plz Enter Roll number of a Student: ";    
     cin>>roll;    
     cout<<"Enter Name of a Student:";    
     cin>>name;
